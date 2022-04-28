@@ -1,0 +1,39 @@
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background: White;
+    min-width: 160px;
+    box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background: #7c63e2;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+header .nav-item:last-child {
+    padding-right: 10.5em;
+}
+
+header .nav-item {
+    padding: 0.9em;
+    padding-left: 700px;
+}
+
+header .navbar-brand {
+    padding-left: 8rem;
+}
+
+header .nav-link:hover {
+    color: black;
+}
