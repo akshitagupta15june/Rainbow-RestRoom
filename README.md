@@ -1,5 +1,7 @@
 # Rainbow-RestRoom
 
+<img src="https://github.com/akshitagupta15june/Rainbow-RestRoom/blob/main/Images/logo-main.png" height=330 width=600>
+
 ## 💡 Inspiration
 
 **[Gender-Neutral-restroom perspective]** 🚽 We are born in Asian countries where non-binary individuals and people from the LGBTQ+ community do not have many restroom choices, they will need to think about which room is suitable for either themselves or the community. We appreciate how neutral-gender restroom is normalized in the US, which means there are more space and privacy for everyone regardless of their gender. Therefore, we build Rainbow RestRoom for many purposes. On the one hand, we want to help students on campus to find a restroom location that is convenient for them. On the other hand, by building this website we hope to popularize the neutral-gender restroom so that people can take the neutral-gender restroom as a necessary element in today human's life. 
