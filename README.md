@@ -34,7 +34,7 @@
 - We had also applied **Google Cloud** to create a chatbot using **Dialogflow** that allows users to chat with the system to report a new restroom on campus. 
 
 - We used **Google Maps API** to customize the campus's map and pin the location that is useful for the users. 
-- 
+
 
 ## Challenges we ran into 🙁
 
