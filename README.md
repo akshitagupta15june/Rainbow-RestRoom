@@ -1,6 +1,6 @@
 # Rainbow-RestRoom
 
-##💡 Inspiration
+## 💡 Inspiration
 
 **[Gender-Neutral-restroom perspective]** 🚽 We are born in Asian countries where non-binary individuals and people from the LGBTQ+ community do not have many restroom choices, they will need to think about which room is suitable for either themselves or the community. We appreciate how neutral-gender restroom is normalized in the US, which means there are more space and privacy for everyone regardless of their gender. Therefore, we build Rainbow RestRoom for many purposes. On the one hand, we want to help students on campus to find a restroom location that is convenient for them. On the other hand, by building this website we hope to popularize the neutral-gender restroom so that people can take the neutral-gender restroom as a necessary element in today human's life. 
 
@@ -8,7 +8,7 @@
 
 **[Disabled People]** 🦽 There is a good sign that almost all campuses have an accessible entrance where people with disability can easily go inside the building. To build a stronger community, we help the universities to inform people with accessible entrances to make their life more convenient. 
 
-##⚙️ What it does 
+## ⚙️ What it does 
 
 **Rainbow RestRoom is a website that lets students living on campus to find the nearest restroom on their campus including those with and without menstrual products.** To make the user experience better, we also let students rate and comment on the condition of the restroom. By doing this, we are not only tracking the cleanliness, but we are also letting people from the non-binary community find their **Safe Zone**, where they can receive the respect of nearby people. Track and update the availability of menstrual supplies, and donate menstrual products to the location. 
 
@@ -52,7 +52,7 @@ We're proud of successfully making a product that had both a front and back end.
 During the hackathon time span, we have learned various new tech stacks such as **Google Cloud** DialogFlow chatbots, **Google Maps API** for our map customization, website deployment using **Github Pages** as well as learned how to collaborate on **GitHub**. Last but not least we understood the meaning of team collaboration.
 
 
-##🚀 How we have used **Github** in our project? 🚀
+## 🚀 How we have used **Github** in our project? 🚀
 
 We used Github in different ways:
 
@@ -67,7 +67,7 @@ We used Github in different ways:
 **Github Actions** Although implementing the actions was a kind of hectic task for our team but we tried to implement them for our pull requests. We still had to learn about GitHub's actions for future hackathons.
 
 
-##📲 What's next for Rainbow Restroom 📲
+## 📲 What's next for Rainbow Restroom 📲
 
 1) We will try to add more university campuses to our database.
 
