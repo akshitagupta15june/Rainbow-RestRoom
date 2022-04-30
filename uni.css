@@ -15,7 +15,7 @@
 }
 
 .dropdown-content a:hover {
-    background: #7c63e2;
+    background: #ffffff;
 }
 
 .dropdown:hover .dropdown-content {
@@ -36,4 +36,110 @@ header .navbar-brand {
 
 header .nav-link:hover {
     color: black;
+}
+header .container .select-box {
+  height: 10px;
+  width: 1000px;
+  flex-direction: column;
+padding-left: 300px;
+
+}
+header .container .select-box{
+  text-align: center;
+}
+header .container .select-box .options-container {
+  background: #2f3640;
+  color: #f5f6fa;
+  max-height: 0;
+  width: 100%;
+  opacity: 0;
+  transition: all 0.4s;
+  border-radius: 8px;
+  overflow: hidden;
+  order: 1;
+}
+
+header .container .selected {
+  background: #2f3640;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  color: #f5f6fa;
+  position: relative;
+
+  order: 0;
+}
+
+header .container .selected::after {
+  content: "";
+  background: url("img/arrow-down.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  height: 100%;
+  width: 100%px;
+
+  transition: all 0.4s;
+}
+
+header .container .select-box .options-container.active {
+  max-height: 240px;
+  opacity: 1;
+  overflow-y: scroll;
+  margin-top: 54px;
+}
+:root {
+  --Sniglet-font: "Sniglet", cursive;
+  --Rubik: "Rubik", cursive;
+  --Patua: "Patua One", cursive;
+  --Lobster: "lobster", cursive;
+  --light-black: #2e2c2caf;
+  --bggradient: linear-gradient(to bottom, #766ad2, #c9c0ed);
+  --light-gray: rgba(255, 255, 255, 0.877);
+}
+.container{
+    margin-top: 15px;
+    margin-bottom: 150px;
+}
+header .row .col-sm-12 {
+padding: 11vmin 1vmin;
+padding-bottom: 35vmin;
+}
+      
+header .row .col-md-5 {
+padding: 1vmin 1vmin;
+}
+      
+header {
+background: #ff512f;
+background: white;
+}
+      
+header .container .col-sm-12 {
+font-family: "Rubik", sans-serif;
+}
+      
+header .container .col-sm-12 h6 {
+padding: 1vmin;
+letter-spacing:  4px;
+}
+header .container-fluid  {
+  padding: 1vmin;
+  letter-spacing: 5px;
+  }
+      
+header .container .col-sm-12 h1 {
+font-size: 11.5vmin;
+font-weight: bold;
+}
+      
+header .container .col-sm-12 p {
+padding: 1vmin 5vmin;
+color: white;
+font-size: 2.5vmin;
+}
+      
+.primary-btn {
+ border-radius: 30px;
+ font-weight: bold;
 }

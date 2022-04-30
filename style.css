@@ -24,7 +24,7 @@ section {
   --Patua: "Patua One", cursive;
   --Lobster: "lobster", cursive;
   --light-black: #2e2c2caf;
-  --bggradient: linear-gradient(to bottom, #6559c0, #a996ef);
+  --bggradient: linear-gradient(to bottom, #766ad2, #c9c0ed);
   --light-gray: rgba(255, 255, 255, 0.877);
 }
 
@@ -94,11 +94,15 @@ footer {
     padding: 14vmin 18vmin;
 }
 header .container .select-box {
-  height: 0px;
-  width: 400px;
+  height: 10px;
+  width: 1000px;
   flex-direction: column;
-}
+padding-left: 300px;
 
+}
+header .container .select-box{
+  text-align: center;
+}
 header .container .select-box .options-container {
   background: #2f3640;
   color: #f5f6fa;
@@ -108,7 +112,6 @@ header .container .select-box .options-container {
   transition: all 0.4s;
   border-radius: 8px;
   overflow: hidden;
-
   order: 1;
 }
 
@@ -181,14 +184,14 @@ header .container .select-box .option .radio {
 /* Searchbox */
 
 header .container.search-box input {
-  width: 200px;
+  width: 400px;
   padding: 300px 16px;
   font-family: "Roboto", sans-serif;
   font-size: 26px;
   position: absolute;
   border-radius: 8px 17px 0 0;
   z-index: 100;
-  border: 8px solid #2f3640;
+  border: 8px solid #f9e5ff;
   opacity: 0;
   pointer-events: none;
   transition: all 0.4s;
@@ -279,3 +282,7 @@ header .container .select-box .options-container.active ~ .search-box input {
 
 
 .show {display:block;}
+
+.section1{
+blackground: black;
+}
