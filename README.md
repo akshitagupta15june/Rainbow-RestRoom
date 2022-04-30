@@ -14,6 +14,21 @@
 
 **Rainbow RestRoom is a website that lets students living on campus to find the nearest restroom on their campus including those with and without menstrual products.** To make the user experience better, we also let students rate and comment on the condition of the restroom. By doing this, we are not only tracking the cleanliness, but we are also letting people from the non-binary community find their **Safe Zone**, where they can receive the respect of nearby people. Track and update the availability of menstrual supplies, and donate menstrual products to the location. 
 
+### 💻 Features
+
+➡️ 🚽 Find Gender Neutral Restroom near you.
+
+➡️  📍 Find a location with menstrual supplies.
+
+➡️  📍 Find a location with an accessible entrance.
+
+➡️  📝 Submit a new restroom in our database.
+
+➡️  🩸 Donate menstrual supplies.
+
+➡️  ⭐ Rating and Review system for restrooms.
+
+
 **An overview of the functions of the website is as below:**
 
  **1.** Search and find restrooms filtered by campus. In this hackathon, **we are focusing on 2 universities campuses ( DePauw University and Tufts University )**
